@@ -35,7 +35,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/I6j5rT5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Roles are configured in the Agents tab under the Admin Panel. An unlimited number of roles can be created and assigned to Agents with access to various departments. Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
+Roles are configured in the Agents tab under the Admin Panel and clicking on Add New Role. Here we created the role "Supreme Admins".
+  
+An unlimited number of roles can be created and assigned to Agents with access to various departments. Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to.
 </p>
 <br />
 
@@ -43,7 +45,9 @@ Roles are configured in the Agents tab under the Admin Panel. An unlimited numbe
 <img src="https://i.imgur.com/K2zu6H9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Departments were configured through the Agents tab under the Admin Panel. Departments are used to route tickets in help desk. The Deparments may be private or public and they can be assigned to 1 or more agents and managers.
+A Department called "System Adminstration" was created here. Departments are configured through the Agents tab under the Admin Panel and clicking on Add New department.
+  
+Departments are used to route tickets in help desk. The Deparments may be private or public and they can be assigned to 1 or more agents and managers.
 </p>
 <br />
 
@@ -51,12 +55,9 @@ Departments were configured through the Agents tab under the Admin Panel. Depart
 <img src="https://i.imgur.com/bvMmZPx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+A team was created called 'level II Sypport" by locating the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.
+  
 Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
-
-Having Agents from different Departments assigned to a Team will supersede the parameters of the Agents’ Department rules. For example, you can create a Help Topic associated with a particular product you produce, and assign it to a Team of specialist Agents from different Departments.
-
-To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.
-
 A Team can have an appointed leader who can receive Alerts & Notices separate from other team members. In order to set a Team Leader you can choose an Agent from the Team Lead dropdown when creating a Team or Editing an existing Team.
 </p>
 <br />
@@ -65,7 +66,9 @@ A Team can have an appointed leader who can receive Alerts & Notices separate fr
 <img src="https://i.imgur.com/VakoRPw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agents were created and given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
+Agents were created under the Agent panel, Add New Agent and filling out the neccessary information. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
+  
+Agents are given access to the help desk with the intent to respond and resolve the tickets. 
 </p>
 <br />
 
@@ -73,6 +76,6 @@ Agents were created and given access to the help desk with the intent to respond
 <img src="https://i.imgur.com/KieOg7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-SLA Plans or Service Level Agreements were created to provide a length of time in which the help desk Administrator expects tickets to be closed. SLA Plans can be created by going to the Manage tab under the Admin Panel and clicking "Add New SLA Plans". SLA plans are usually different for every orangization.
+SLA Plans can be created by going to the Manage tab under the Admin Panel and clicking Add New SLA PlanS. SLA Plans or Service Level Agreements were created to provide a length of time in which the help desk Administrator expects tickets to be closed. . SLA plans are usually different for every orangization.
 </p>
 <br />
