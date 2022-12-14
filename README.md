@@ -76,6 +76,6 @@ Agents are given access to the help desk with the intent to respond and resolve 
 <img src="https://i.imgur.com/KieOg7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-SLA Plans can be created by going to the Manage tab under the Admin Panel and clicking Add New SLA PlanS. SLA Plans or Service Level Agreements were created to provide a length of time in which the help desk Administrator expects tickets to be closed. . SLA plans are usually different for every orangization.
+SLA Plans are created by going to the Manage tab under the Admin Panel and clicking Add New SLA Plan. SLA Plans or Service Level Agreements were created to provide a length of time in which the help desk Administrator expects tickets to be closed. . SLA plans are usually different for every orangization.
 </p>
 <br />
